@@ -140,6 +140,59 @@
                 </div>
 
                 <p class="text-center"><span class="text-decoration-underline">Un paragraphe de blabla :</span> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis delectus quisquam eaque eum odit molestiae? Vel aliquid aspernatur dolorum rerum animi consequatur delectus, dolorem qui. Dolorum assumenda aperiam sint vitae molestias. Dolore ipsum facilis consequatur doloribus eveniet non, error illo laboriosam a cumque! Qui dolor illo dolore nisi, vitae minus! A quia, iure odio unde iste voluptatibus soluta quam officiis doloremque placeat reiciendis voluptatum minima debitis perferendis quos maxime nesciunt aliquid optio temporibus odit id fuga? Repellendus architecto cum facilis incidunt! Itaque, voluptate mollitia pariatur voluptates culpa non omnis tempora, perferendis inventore dolore, vero unde cum! Asperiores obcaecati placeat tenetur?</p>
+
+                <div class="d-flex justify-content-center mb-5">
+                    <div class="spinner-border text-primary" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                    </div>
+                    <div class="spinner-border text-secondary" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                    </div>
+                    <div class="spinner-border text-success" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                    </div>
+                    <div class="spinner-border text-danger" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                    </div>
+                    <div class="spinner-border text-warning" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                    </div>
+                    <div class="spinner-border text-info" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                    </div>
+                    <div class="spinner-border text-light" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                    </div>
+                    <div class="spinner-border text-dark" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                    </div>
+                </div>
+
+                <div class="d-flex justify-content-around">
+                    <div class="col-4">
+                        <h2 class="text-center text-warp entrainement">Entrainement CSS</h2>
+
+                        <p class="text-warp">Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis tenetur quod quasi ratione enim molestiae ad dolorem totam at doloremque ut magni veniam error dolore esse vitae voluptate aperiam voluptatibus tempore explicabo, deserunt nisi iste perspiciatis quidem. Dolore facere doloribus cum commodi, incidunt in iure eum, adipisci, veniam animi minima!</p>
+                    </div>
+
+                    <div class="col-4 d-flex flex-column align-items-center">
+                        <h2 class="text-center text-warp entrainement"> Entrainement CSS</h2>
+                            <div class="card" style="width: 18rem;">
+                                <img src="..." class="card-img-top" alt="...">
+                                <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                </div>
+                            </div>
+
+                    </div>
+                    <div class="col-4">
+                        <h2 class="text-center text-warp"> Entrainement CSS</h2>
+                    </div>
+                </div>
+
+
             </div>
     </main>
 
