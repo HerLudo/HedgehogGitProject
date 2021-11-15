@@ -57,19 +57,38 @@
 
     <main>
         <h1 class="text-center">HELLO WORLD !</h1>
+
+            <div class="d-flex justify-content-center">
+                <div class="spinner-border text-primary" role="status">
+                <span class="visually-hidden">Loading...</span>
+                </div>
+                <div class="spinner-border text-secondary" role="status">
+                <span class="visually-hidden">Loading...</span>
+                </div>
+                <div class="spinner-border text-success" role="status">
+                <span class="visually-hidden">Loading...</span>
+                </div>
+                <div class="spinner-border text-danger" role="status">
+                <span class="visually-hidden">Loading...</span>
+                </div>
+                <div class="spinner-border text-warning" role="status">
+                <span class="visually-hidden">Loading...</span>
+                </div>
+                <div class="spinner-border text-info" role="status">
+                <span class="visually-hidden">Loading...</span>
+                </div>
+                <div class="spinner-border text-light" role="status">
+                <span class="visually-hidden">Loading...</span>
+                </div>
+                <div class="spinner-border text-dark" role="status">
+                <span class="visually-hidden">Loading...</span>
+                </div>
+            </div>
+
+
             <div class="d-flex flex-column align-items-center justify-content-center mb-5 mt-5">
 
-                <div class="card mb-3" style="width: 18rem;">
-                <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <a href="#" class="card-link">Card link</a>
-                    <a href="#" class="card-link">Another link</a>
-                </div>
-                </div>
-
-                <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                <div id="carouselExampleControls" class="carousel slide mb-5" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
                         <img src="https://picsum.photos/1280/800" class="d-block w-100" alt="...">
@@ -90,10 +109,41 @@
                         <span class="visually-hidden">Next</span>
                     </button>
                     </div>
+                </div>
+
+
+                <div class="d-flex justify-content-center mb-5">
+                    <div class="spinner-border text-primary" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                    </div>
+                    <div class="spinner-border text-secondary" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                    </div>
+                    <div class="spinner-border text-success" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                    </div>
+                    <div class="spinner-border text-danger" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                    </div>
+                    <div class="spinner-border text-warning" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                    </div>
+                    <div class="spinner-border text-info" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                    </div>
+                    <div class="spinner-border text-light" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                    </div>
+                    <div class="spinner-border text-dark" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                    </div>
+                </div>
+
+                <p class="text-center"><span class="text-decoration-underline">Un paragraphe de blabla :</span> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis delectus quisquam eaque eum odit molestiae? Vel aliquid aspernatur dolorum rerum animi consequatur delectus, dolorem qui. Dolorum assumenda aperiam sint vitae molestias. Dolore ipsum facilis consequatur doloribus eveniet non, error illo laboriosam a cumque! Qui dolor illo dolore nisi, vitae minus! A quia, iure odio unde iste voluptatibus soluta quam officiis doloremque placeat reiciendis voluptatum minima debitis perferendis quos maxime nesciunt aliquid optio temporibus odit id fuga? Repellendus architecto cum facilis incidunt! Itaque, voluptate mollitia pariatur voluptates culpa non omnis tempora, perferendis inventore dolore, vero unde cum! Asperiores obcaecati placeat tenetur?</p>
             </div>
     </main>
 
-<footer>
+<footer class="p-5">
     <h2 class="text-center">Bye-Bye</h2>
 </footer>
     
